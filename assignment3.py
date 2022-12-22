@@ -1,6 +1,5 @@
+import urllib.request
 import argparse
-# other imports go here
-
 
 def main(url):
     print(f"Running main with URL = {url}...")
